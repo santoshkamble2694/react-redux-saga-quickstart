@@ -8,9 +8,6 @@ Install project with npm/yarn
 ```bash
 git clone https://github.com/santoshkamble2694/react-redux-saga-quickstart.git
 ```
-```bash
-npm install
-```
 
 ```bash
 cd react-redux-saga-quickstart
